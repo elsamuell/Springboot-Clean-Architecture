@@ -5,12 +5,12 @@
 
 ## Build App
 ```
-mvw clean package spring-boot:repackage
+mvn clean package spring-boot:repackage
 ```
 
 ## Run App
 ```
-mvw spring-boot:run
+mvn spring-boot:run
 ```
 
 ## Open API Documentation
